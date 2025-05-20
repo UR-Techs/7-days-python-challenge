@@ -1,12 +1,15 @@
-📘 Day 4 - Python + DSA Challenge
-✅ Today's Focus
-Day 4 focused on improving problem-solving using:
+# 📘 Day 4 - Python + DSA Challenge
 
-Arithmetic operations for finding patterns (missing number)
+## ✅ Today's Focus
+### Day 4 focused on improving problem-solving using:
 
-String manipulation and dictionary usage for text analysis
+- Arithmetic operations for finding patterns (missing number)
 
-Efficient set operations for comparing collections
+- String manipulation and dictionary usage for text analysis
+
+- Efficient set operations for comparing collections
+
+---
 
 🔍 Reflection
 Today was about solidifying logic and syntax for everyday programming problems. These problems simulate real-world scenarios involving data loss, search, and text analysis — all critical in interviews and backend systems.
